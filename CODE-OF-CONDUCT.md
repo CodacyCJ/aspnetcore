@@ -5,4 +5,4 @@ to clarify expected behavior in our community.
 
 For more information, see the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct).
 
-this is a sentence!
+this is a sentence
